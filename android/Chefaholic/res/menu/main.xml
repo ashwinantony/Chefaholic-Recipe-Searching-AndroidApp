@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/loginMenu" android:title="@string/login"></item>
+    <item android:id="@+id/register" android:title="@string/register"></item>
+    <item android:id="@+id/searchbyTag" android:title="@string/searchby"></item>
+
+</menu>

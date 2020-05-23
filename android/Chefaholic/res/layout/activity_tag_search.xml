@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/searchTagEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:ems="10"
+        android:hint="@string/searchtag" >
+
+        <requestFocus />
+    </EditText>
+
+    <CheckBox
+        android:id="@+id/chickencheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/searchTagEditText"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="46dp"
+        android:text="@string/chicken" />
+
+    <CheckBox
+        android:id="@+id/muttoncheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/chickencheckBox"
+        android:layout_alignBottom="@+id/chickencheckBox"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="31dp"
+        android:text="@string/mutton" />
+
+    <CheckBox
+        android:id="@+id/porkcheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/beefcheckBox"
+        android:layout_alignBottom="@+id/beefcheckBox"
+        android:layout_alignLeft="@+id/muttoncheckBox"
+        android:text="@string/pork" />
+
+    <CheckBox
+        android:id="@+id/beefcheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/chickencheckBox"
+        android:layout_below="@+id/chickencheckBox"
+        android:layout_marginTop="14dp"
+        android:text="@string/beef" />
+
+    <CheckBox
+        android:id="@+id/eggcheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/beefcheckBox"
+        android:layout_centerVertical="true"
+        android:text="@string/egg" />
+
+    <CheckBox
+        android:id="@+id/potatoscheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/eggcheckBox"
+        android:layout_alignBottom="@+id/eggcheckBox"
+        android:layout_alignLeft="@+id/porkcheckBox"
+        android:text="@string/potateos" />
+
+    <Button
+        android:id="@+id/searchButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/potatoscheckBox"
+        android:layout_marginTop="45dp"
+        android:layout_toRightOf="@+id/chickencheckBox"
+        android:text="@string/searchs" />
+
+</RelativeLayout>
