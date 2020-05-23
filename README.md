@@ -10,7 +10,7 @@ After cooking your recipe, other people can post the photo of their own attempt 
 This is what makes the app unique - you can follow a complete genealogy of a recipe, and keep on discovering new variations on themes. 
 The recipes themselves don't need to be anything fancy, and that’s another reason why the app is unique. It gives a look into what real people are making for their families at home.
 
-Application Features: 
+Application Features:
  Complete recipe directions, ingredients and reviews with images.
  Search recipes by ingredients.
  Quick access of favourite recipes, just like a cookbook.
