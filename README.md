@@ -11,9 +11,9 @@ This is what makes the app unique - you can follow a complete genealogy of a rec
 The recipes themselves don't need to be anything fancy, and that’s another reason why the app is unique. It gives a look into what real people are making for their families at home.
 
 Application Features: 
- Complete recipe directions, ingredients and reviews with images. 
- Search recipes by ingredients. 
+ Complete recipe directions, ingredients and reviews with images.
+ Search recipes by ingredients.
  Quick access of favourite recipes, just like a cookbook.
- Create your own recipe, share with friends and Chefaholic community. 
- Discuss about dint and health tricks.  Follow friends and their recipes. 
+ Create your own recipe, share with friends and Chefaholic community.
+ Discuss about dint and health tricks.  Follow friends and their recipes.
  Locate nearby grocery stores.
