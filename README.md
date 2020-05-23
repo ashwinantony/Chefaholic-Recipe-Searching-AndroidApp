@@ -1,4 +1,4 @@
-# Chefaholic-Recipe-Searching-AndroidApp
+# Chefaholic : Recipe Searching AndroidApp
 Chefaholic is a recipe searching Android App which provides the results just by typing ingredients you have in your kitchen and discovering great recipes within the Chefaholic in-app community!
 
 The app automatically provides recipes that use the provided ingredients. The more ingredients the user adds, the more specialized the results become. 
